@@ -16,7 +16,7 @@ The BitLyft SOC Team continuously monitors the threat landscape, analyzes emergi
 This repository is structured as follows:
 
 ```
-├── Threat-Brief/         # Specific threat brief overviews
+├── Threat-Briefs/         # Specific threat brief overviews
 ├── README.md              # This document
 ```
 
